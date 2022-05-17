@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Yoshi finds eggs",
+      "body": "Lorem ipsum dolor sit amet consectetur",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Mario finds stars",
+      "body": "Lorem ipsum dolor sit amet consectetur",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "How to defeat bowser",
+      "body": "Lorem ipsum dolor sit amet consectetur",
+      "author": "mario",
+      "id": 3
+    }
+  ]
+}
